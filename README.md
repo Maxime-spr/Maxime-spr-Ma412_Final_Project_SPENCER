@@ -1,4 +1,4 @@
-# AERO 4 - Mathematical Tools for Data Science (2023/2024)
+# Ma412_Final_Project
 
 ## Project Overview
 
