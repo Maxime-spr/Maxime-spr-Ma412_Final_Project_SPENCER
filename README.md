@@ -34,9 +34,7 @@ features.
 - `data.npy`: The dataset file.
 - `Ma412_Final_Project_SPENCER.pdf`: Document explaining the problem, possible solutions, chosen methods, and algorithm explanations.
 
-## Getting Started
-
-To get started with the project, follow these steps:
+## Clone the project
 
 1. **Clone the Repository:**
     ```bash
