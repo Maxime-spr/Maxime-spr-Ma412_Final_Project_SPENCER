@@ -31,3 +31,16 @@ The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each e
 - `data.npy`: The dataset file.
 - `Ma412_Final_Project_SPENCER.pdf`: Document explaining the problem, possible solutions, chosen methods, and algorithm explanations.
 
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/Maxime-spr/Maxime-spr-Ma412_Final_Project_SPENCER.git
+    ```
+
+2. **Navigate to the Cloned Repository:**
+    ```bash
+    cd Maxime-spr-Ma412_Final_Project_SPENCER
+    ```
