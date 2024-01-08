@@ -6,7 +6,9 @@ This repository contains the implementation of unsupervised clustering technique
 
 ## Dataset
 
-The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each example represents an aircraft trajectory with its position in the sky and other significant features. The data are clean, and no pre-processing is required.
+We have a database ‘data.npy’ that contains 3879 examples with 18 features each. Each
+example corresponds to an aircraft trajectory with its position in the sky and other significant
+features.
 
 ## Repository Structure
 
