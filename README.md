@@ -11,7 +11,7 @@ The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each e
 ## Repository Structure
 
 - `code_method/`: Contains the Python source code file.
-  - `choosecluster.py`: Python code searching the number of clusetrs of the dataset.
+  - `choosecluster.py`: Python code searching the number of clusters of the dataset.
   - `clustervisualize.py`: Python code to visualize the clusters of the dataset.
   - `compRegression.py`: Python code whiwh compare the three regression method(Ridge, Lasso and Elastic net) to determine the most efficient.
   - `DBSCAN.py`: Python code using the DBScan clustering method on the dataset.
@@ -21,6 +21,13 @@ The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each e
   - `kmeans.py`: Python code of the K-means method on the dataset.
   - `lassoregression.py`: Python code of the Lasso regression method on the dataset.
   - `maxlikelihood.py`: Python code of the maximum likelihood method on the dataset.
+  - `neuralnetwork.py`: Python code of the neural network method on the dataset.
+  - `optics.py`: Python code of the Ordering Points To Identify the Clustering Structure on the dataset.
+  - `pca.py`: Python code of the Principal component analysis method on the dataset.
+  - `ridgeRgression.py`: Python code of the Ridge regression method on the dataset.
+  - `svm.py`: Python code of the Support vector machine method on the dataset.
+  - `utils.py`: Library Python code of the function used for the method.
+  - `utils4.py`: Library Python code of the function used for the method.
 - `data.npy`: The dataset file.
-- `Project_Presentation.pdf`: Document explaining the problem, possible solutions, chosen methods, and algorithm explanations.
+- `Ma412_Final_Project_SPENCER.pdf`: Document explaining the problem, possible solutions, chosen methods, and algorithm explanations.
 
