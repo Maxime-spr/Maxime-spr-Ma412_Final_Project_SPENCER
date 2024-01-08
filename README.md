@@ -23,7 +23,7 @@ The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each e
   - `maxlikelihood.py`: Python code of the maximum likelihood method on the dataset.
   - `neuralnetwork.py`: Python code of the neural network method on the dataset.
   - `optics.py`: Python code of the Ordering Points To Identify the Clustering Structure on the dataset.
-  - `pca.py`: Python code of the Principal component analysis method on the dataset.
+  - `pca.py`: Python code of the Principal component analysis method and dimension reduction on the dataset.
   - `ridgeRgression.py`: Python code of the Ridge regression method on the dataset.
   - `svm.py`: Python code of the Support vector machine method on the dataset.
   - `utils4.py`: Library Python code of the function used for the method of svm and gaussian kernel.
