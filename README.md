@@ -20,6 +20,7 @@ The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each e
   - `GMM.py`: Python code of the Gaussian mixtures model method on the dataset.
   - `kmeans.py`: Python code of the K-means method on the dataset.
   - `lassoregression.py`: Python code of the Lasso regression method on the dataset.
+  - `maxlikelihood.py`: Python code of the maximum likelihood method on the dataset.
 - `data.npy`: The dataset file.
 - `Project_Presentation.pdf`: Document explaining the problem, possible solutions, chosen methods, and algorithm explanations.
 
