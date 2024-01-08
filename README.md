@@ -26,7 +26,7 @@ The dataset, 'data.npy', consists of 3879 examples with 18 features each. Each e
   - `pca.py`: Python code of the Principal component analysis method on the dataset.
   - `ridgeRgression.py`: Python code of the Ridge regression method on the dataset.
   - `svm.py`: Python code of the Support vector machine method on the dataset.
-  -   - `utils4.py`: Library Python code of the function used for the method of svm and gaussian kernel.
+  - `utils4.py`: Library Python code of the function used for the method of svm and gaussian kernel.
   - `utils.py`: Library Python code of the function used for the other method.
 
 - `data.npy`: The dataset file.
